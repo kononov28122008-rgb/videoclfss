@@ -1,0 +1,14 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  text-align: center;
+  background: #eef5ff;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+#qrcode {
+  margin-top: 20px;
+}
